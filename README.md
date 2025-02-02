@@ -22,3 +22,7 @@ LLaMA 3.3-70b-versatile on Groq Cloud
 Chroma DB
 
 Groq Cloud API
+
+
+![image](https://github.com/user-attachments/assets/b6311632-02e1-4b0a-91d1-2f992c4babb2)
+
