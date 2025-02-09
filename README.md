@@ -33,7 +33,7 @@
 ![image](https://github.com/user-attachments/assets/431d476d-7f35-4a2b-9e94-06987f5d0ea9)
 
 
-This Jupyter notebook demonstrates the implementation of a **Cold Email
+This project demonstrates the implementation of a **Cold Email
 Generation System** designed to assist job seekers in crafting
 personalized and professional cold emails for job applications. The
 system leverages **LangChain** and **ChatGroq** (powered by
