@@ -27,11 +27,11 @@
 
 -   **Pandas**: For handling and processing CSV data.
 
-![](vertopal_2a03f3fb2d064364bfb149bbf35c60bd/media/image1.png){width="6.268055555555556in"
-height="3.0477865266841646in"}
+![image](https://github.com/user-attachments/assets/c3cfcdc8-d9fa-4ef8-b133-12b99de63a73)
 
-![image](vertopal_2a03f3fb2d064364bfb149bbf35c60bd/media/image2.png){width="6.268055555555556in"
-height="2.5694444444444446in"}
+
+![image](https://github.com/user-attachments/assets/431d476d-7f35-4a2b-9e94-06987f5d0ea9)
+
 
 This Jupyter notebook demonstrates the implementation of a **Cold Email
 Generation System** designed to assist job seekers in crafting
